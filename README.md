@@ -1,1 +1,1 @@
-# Website-in-HTML-CSS-JavaScript
+# Website in HTML CSS JavaScript
